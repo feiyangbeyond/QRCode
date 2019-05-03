@@ -33,7 +33,7 @@ public class Main {
 		String imgPath = "C:/Users/"+user+"/Desktop/生成的二维码/"+time+".png";
 		//为二维码加上logo null-->路径 
 		//System.out.println("为二维码添加logo？请输入logo的绝对路径！");
-		String logoPath = "C:\\Users\\郭飞阳\\Pictures\\ico\\spring-1.png";
+		String logoPath = null;
 		//设置二维码格式 jpg
 		String imgType = "png";
 		//生成二维码
